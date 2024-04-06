@@ -1,0 +1,16 @@
+{
+    "name": "Thunder Theme",
+    "description": "No description",
+    "authors": [
+        {
+            "name": "tibe0124",
+            "id": "831184693448802364"
+        }
+    ],
+
+    "background": {
+        "blur": 0,
+        "url": "https://media.discordapp.net/attachments/1149947677249904722/1158451797254471810/images.jpg?ex=651c4bcf&is=651afa4f&hm=4ce32e7969e259d8b6bf8145e59b90099bb9711d814eb40fe34263b82efecbdd&",
+        "alpha": 0.82
+    }
+}
